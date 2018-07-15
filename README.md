@@ -1,5 +1,5 @@
 # gap-rule
-
+<p>
 A program to search for Camp Sites available during a given date range.
 
 This is a Maven project so build in your IDE and import dependencies, or from the command line:
@@ -68,3 +68,4 @@ Sample formatting:
     {"campsiteId": 4, "START_DATE": "2018-06-07", "END_DATE": "2018-06-10"}
   ]
 }
+</p>
